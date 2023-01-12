@@ -94,6 +94,3 @@ if __name__ == '__main__':
                         open.clear()
                         break
                     open.insert(0, i)
-
-
-# 맵 생성 -> 랜덤 거리 계산 함수 여러개 -> 결과 비교 -> 짧은 쪽 선택(list에 추가) -> 반복 -> 평군값?
